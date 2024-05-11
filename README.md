@@ -1,6 +1,6 @@
 <h1>Projeto Mario Bros</h1>
 <br>
-<p>Esse é o primeiro projeto que aprendi no <a href="https//rodolfomori.com.br/devclub">DevClub</a>.</p>
+<p>Esse é o primeiro projeto que aprendi no <a href="https://github.com/rodolfomori-devclub">DevClub</a>.</p>
 <br>
 <h3>Linguagens utilizadas:</h3>
 <br>
